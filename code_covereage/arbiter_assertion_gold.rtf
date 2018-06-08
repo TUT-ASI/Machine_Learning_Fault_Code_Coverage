@@ -1,0 +1,382 @@
+id: 0 comment: 
+G(rst -> (nextstate[0]))
+id: 1 comment: 
+G(((((!lreq & !nreq) & !ereq) & !wreq) & !sreq) -> (nextstate[0]))
+id: 2 comment: 
+G(((((((!rst & lflit_id_2) & lreq) & !nreq) & !ereq) & !wreq) & !sreq) -> (!nextstate[0]))
+id: 3 comment: 
+G(((!rst & lflit_id_2) & sreq) -> (!nextstate[0]))
+id: 4 comment: 
+G((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & sreq) -> (!nextstate[0]))
+id: 5 comment: 
+G((((((!rst & lflit_id_0) & !lreq) & !nreq) & ereq) & !sreq) -> (!nextstate[0]))
+id: 6 comment: 
+G(((((((!rst & lflit_id_0) & !lreq) & !nreq) & !ereq) & wreq) & !sreq) -> (!nextstate[0]))
+id: 7 comment: 
+G((((!rst & lflit_id_0) & nreq) & !sreq) -> (!nextstate[0]))
+id: 8 comment: 
+G((((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & lreq) & nreq) & !wreq) & !sreq) -> (!nextstate[0]))
+id: 9 comment: 
+G(((((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & nreq) & ereq) & !wreq) & !sreq) -> (!nextstate[0]))
+id: 10 comment: 
+G(((((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & !nreq) & ereq) & wreq) & !sreq) -> (!nextstate[0]))
+id: 11 comment: 
+G(((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & nreq) & wreq) & !sreq) -> (!nextstate[0]))
+id: 12 comment: 
+G((!rst & !lreq) -> (!nextstate[1]))
+id: 13 comment: 
+G(rst -> (!nextstate[1]))
+id: 14 comment: 
+G((((lflit_id_0 & !lreq) & nreq) & !ereq) -> (nextstate[2]))
+id: 15 comment: 
+G((((lflit_id_0 & nreq) & !ereq) & !sreq) -> (nextstate[2]))
+id: 16 comment: 
+G((((((((((!rst & lflit_id_2) & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & lreq) & nreq) & !wreq) -> (!nextstate[2]))
+id: 17 comment: 
+G(((((!rst & lflit_id_0) & lreq) & nreq) & !wreq) -> (!nextstate[2]))
+id: 18 comment: 
+G((!rst & !nreq) -> (!nextstate[2]))
+id: 19 comment: 
+G(rst -> (!nextstate[2]))
+id: 20 comment: 
+G((((lflit_id_0 & !nreq) & ereq) & !wreq) -> (nextstate[3]))
+id: 21 comment: 
+G((((((!rst & lflit_id_2) & !lreq) & nreq) & ereq) & !sreq) -> (!nextstate[3]))
+id: 22 comment: 
+G(((((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !lreq) & nreq) & ereq) & wreq) & !sreq) -> (!nextstate[3]))
+id: 23 comment: 
+G((!rst & !ereq) -> (!nextstate[3]))
+id: 24 comment: 
+G(rst -> (!nextstate[3]))
+id: 25 comment: 
+G((!rst & !wreq) -> (!nextstate[4]))
+id: 26 comment: 
+G(rst -> (!nextstate[4]))
+id: 27 comment: 
+G(rst -> X(nextstate[0]))
+id: 28 comment: 
+G(((((((((((!rst & lflit_id_2) & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & !nreq) & ereq) & !sreq) -> X(!nextstate[0]))
+id: 29 comment: 
+G(((((((!rst & lflit_id_2) & !lreq) & !nreq) & !ereq) & wreq) & !sreq) -> X(!nextstate[0]))
+id: 30 comment: 
+G(((!rst & lflit_id_2) & sreq) -> X(!nextstate[0]))
+id: 31 comment: 
+G(((((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & lreq) & !nreq) & !ereq) & !wreq) & sreq) -> X(!nextstate[0]))
+id: 32 comment: 
+G((((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & nreq) & !ereq) & !wreq) & sreq) -> X(!nextstate[0]))
+id: 33 comment: 
+G((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & ereq) & sreq) -> X(!nextstate[0]))
+id: 34 comment: 
+G(((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !ereq) & wreq) & sreq) -> X(!nextstate[0]))
+id: 35 comment: 
+G(((((((!rst & lflit_id_0) & lreq) & !nreq) & !ereq) & !wreq) & !sreq) -> X(!nextstate[0]))
+id: 36 comment: 
+G((((((!rst & lflit_id_0) & !lreq) & !nreq) & ereq) & !sreq) -> X(!nextstate[0]))
+id: 37 comment: 
+G((((((!rst & lflit_id_0) & nreq) & ereq) & !wreq) & !sreq) -> X(!nextstate[0]))
+id: 38 comment: 
+G(((((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & nreq) & ereq) & !wreq) & !sreq) -> X(!nextstate[0]))
+id: 39 comment: 
+G((((!rst & nreq) & wreq) & !sreq) -> X(!nextstate[0]))
+id: 40 comment: 
+G(((((((((((!rst & lflit_id_2) & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & lreq) & nreq) & !wreq) & !sreq) -> X(!nextstate[1]))
+id: 41 comment: 
+G(((((((((((!rst & lflit_id_2) & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & nreq) & !wreq) & !sreq) -> X(!nextstate[1]))
+id: 42 comment: 
+G((((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & lreq) & !ereq) & sreq) -> X(!nextstate[1]))
+id: 43 comment: 
+G((((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & lreq) & !nreq) & ereq) & sreq) -> X(!nextstate[1]))
+id: 44 comment: 
+G((((!rst & lflit_id_0) & !lreq) & !sreq) -> X(!nextstate[1]))
+id: 45 comment: 
+G(((((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & !nreq) & ereq) & !wreq) & !sreq) -> X(!nextstate[1]))
+id: 46 comment: 
+G(((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & !lreq) & wreq) & !sreq) -> X(!nextstate[1]))
+id: 47 comment: 
+G(((!rst & !lreq) & sreq) -> X(!nextstate[1]))
+id: 48 comment: 
+G(rst -> X(!nextstate[1]))
+id: 49 comment: 
+G((((((((((!rst & lflit_id_2) & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & lreq) & nreq) & !wreq) -> X(!nextstate[2]))
+id: 50 comment: 
+G(((!rst & lflit_id_2) & !nreq) -> X(!nextstate[2]))
+id: 51 comment: 
+G((((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !nreq) & !ereq) & !sreq) -> X(!nextstate[2]))
+id: 52 comment: 
+G(((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !nreq) & ereq) & !sreq) -> X(!nextstate[2]))
+id: 53 comment: 
+G((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !nreq) & sreq) -> X(!nextstate[2]))
+id: 54 comment: 
+G(((((((!rst & lflit_id_0) & lreq) & nreq) & ereq) & wreq) & !sreq) -> X(!nextstate[2]))
+id: 55 comment: 
+G(((((!rst & lflit_id_0) & lreq) & nreq) & !wreq) -> X(!nextstate[2]))
+id: 56 comment: 
+G(rst -> X(!nextstate[2]))
+id: 57 comment: 
+G((((lflit_id_0 & !nreq) & ereq) & !wreq) -> X(nextstate[3]))
+id: 58 comment: 
+G((((((!rst & lflit_id_2) & !lreq) & nreq) & ereq) & !sreq) -> X(!nextstate[3]))
+id: 59 comment: 
+G(((!rst & lflit_id_2) & !ereq) -> X(!nextstate[3]))
+id: 60 comment: 
+G((((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & lreq) & !ereq) & !wreq) -> X(!nextstate[3]))
+id: 61 comment: 
+G(((((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !lreq) & nreq) & ereq) & !sreq) -> X(!nextstate[3]))
+id: 62 comment: 
+G(((((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_1) & !eflit_id_1) & !wflit_id_1) & !sflit_id_1) & lreq) & nreq) & ereq) & !sreq) -> X(!nextstate[3]))
+id: 63 comment: 
+G(((((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !lreq) & nreq) & !ereq) & !wreq) & !sreq) -> X(!nextstate[3]))
+id: 64 comment: 
+G((((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !lreq) & !ereq) & !wreq) & sreq) -> X(!nextstate[3]))
+id: 65 comment: 
+G((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !ereq) & wreq) -> X(!nextstate[3]))
+id: 66 comment: 
+G(((((((((((!rst & !lflit_id_1) & !nflit_id_1) & !eflit_id_1) & !wflit_id_1) & !sflit_id_1) & lreq) & nreq) & ereq) & !wreq) & sreq) -> X(!nextstate[3]))
+id: 67 comment: 
+G(rst -> X(!nextstate[3]))
+id: 68 comment: 
+G(((lflit_id_2 & !ereq) & wreq) -> X(nextstate[4]))
+id: 69 comment: 
+G(((!rst & lflit_id_2) & !wreq) -> X(!nextstate[4]))
+id: 70 comment: 
+G((((((((!rst & !lflit_id_2) & !lflit_id_1) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !wreq) -> X(!nextstate[4]))
+id: 71 comment: 
+G((((((((((!rst & !lflit_id_0) & !nflit_id_0) & !eflit_id_0) & !wflit_id_0) & !sflit_id_0) & lreq) & ereq) & wreq) & !sreq) -> X(!nextstate[4]))
+id: 72 comment: 
+G(rst -> X(!nextstate[4]))
+id: 73 comment: 
+G(1 & Xrst -> X(nextstate[0]))
+id: 74 comment: 
+G(rst & X1 -> X(nextstate[0]))
+id: 75 comment: 
+G(1 & X((((!lreq & !nreq) & !ereq) & !wreq) & !sreq) -> X(nextstate[0]))
+id: 76 comment: 
+G((((((!rst & lflit_id_2) & !lreq) & !nreq) & ereq) & !sreq) & X((((!rst & !lreq) & !nreq) & ereq) & !sreq) -> X(!nextstate[0]))
+id: 77 comment: 
+G((((!rst & lflit_id_2) & nreq) & !sreq) & X((!rst & nreq) & !sreq) -> X(!nextstate[0]))
+id: 78 comment: 
+G(((!rst & lflit_id_2) & sreq) & X(!rst & sreq) -> X(!nextstate[0]))
+id: 79 comment: 
+G((!rst & lreq) & X((((!rst & !lreq) & !nreq) & ereq) & !sreq) -> X(!nextstate[0]))
+id: 80 comment: 
+G((!rst & lreq) & X(((((!rst & !lreq) & !nreq) & !ereq) & wreq) & !sreq) -> X(!nextstate[0]))
+id: 81 comment: 
+G(((((!rst & !lreq) & !nreq) & !ereq) & !sreq) & X((((!rst & !lreq) & !nreq) & ereq) & !sreq) -> X(!nextstate[0]))
+id: 82 comment: 
+G(((((!rst & !lreq) & !nreq) & !ereq) & sreq) & X(((((!rst & !lreq) & !nreq) & !ereq) & wreq) & !sreq) -> X(!nextstate[0]))
+id: 83 comment: 
+G((((!rst & nreq) & !wreq) & !sreq) & X(((((!rst & lreq) & !nreq) & !ereq) & !wreq) & !sreq) -> X(!nextstate[0]))
+id: 84 comment: 
+G((!rst & wreq) & X(((((!rst & lreq) & !nreq) & !ereq) & !wreq) & !sreq) -> X(!nextstate[0]))
+id: 85 comment: 
+G(((!rst & !nreq) & !sreq) & X((!rst & nreq) & !sreq) -> X(!nextstate[0]))
+id: 86 comment: 
+G((!rst & sreq) & X((!rst & nreq) & !sreq) -> X(!nextstate[0]))
+id: 87 comment: 
+G((!rst & !sreq) & X(!rst & sreq) -> X(!nextstate[0]))
+id: 88 comment: 
+G(((lflit_id_0 & lreq) & !sreq) & Xlreq -> X(nextstate[1]))
+id: 89 comment: 
+G((((!rst & lflit_id_0) & !lreq) & !sreq) & X((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & lreq) -> X(!nextstate[1]))
+id: 90 comment: 
+G(!rst & X(!rst & !lreq) -> X(!nextstate[1]))
+id: 91 comment: 
+G(1 & Xrst -> X(!nextstate[1]))
+id: 92 comment: 
+G(rst & X!rst -> X(!nextstate[1]))
+id: 93 comment: 
+G(lreq & X(!lreq & nreq) -> X(nextstate[2]))
+id: 94 comment: 
+G((!lreq & nreq) & X(lreq & nreq) -> X(nextstate[2]))
+id: 95 comment: 
+G((((!rst & lreq) & nreq) & !wreq) & X((!rst & lreq) & nreq) -> X(!nextstate[2]))
+id: 96 comment: 
+G((!rst & !nreq) & X((!rst & lreq) & nreq) -> X(!nextstate[2]))
+id: 97 comment: 
+G(!rst & X(!rst & !nreq) -> X(!nextstate[2]))
+id: 98 comment: 
+G(1 & Xrst -> X(!nextstate[2]))
+id: 99 comment: 
+G(rst & X!rst -> X(!nextstate[2]))
+id: 100 comment: 
+G((!lreq & ereq) & X(lreq & ereq) -> X(nextstate[3]))
+id: 101 comment: 
+G((!nreq & ereq) & X(!lreq & nreq) -> X(nextstate[3]))
+id: 102 comment: 
+G(nreq & X(!nreq & ereq) -> X(nextstate[3]))
+id: 103 comment: 
+G(((((!rst & !lreq) & nreq) & ereq) & !sreq) & X(((((!rst & lflit_id_2) & !lreq) & nreq) & ereq) & !sreq) -> X(!nextstate[3]))
+id: 104 comment: 
+G((((!rst & !lflit_id_0) & !nreq) & !ereq) & X((!rst & !nreq) & ereq) -> X(!nextstate[3]))
+id: 105 comment: 
+G((((!rst & lreq) & !nreq) & ereq) & X(((!rst & lreq) & nreq) & ereq) -> X(!nextstate[3]))
+id: 106 comment: 
+G((!rst & !ereq) & X((!rst & nreq) & ereq) -> X(!nextstate[3]))
+id: 107 comment: 
+G(!rst & X(!rst & !ereq) -> X(!nextstate[3]))
+id: 108 comment: 
+G(1 & Xrst -> X(!nextstate[3]))
+id: 109 comment: 
+G(rst & X!rst -> X(!nextstate[3]))
+id: 110 comment: 
+G(((lflit_id_2 & !ereq) & wreq) & X1 -> X(nextstate[4]))
+id: 111 comment: 
+G((lflit_id_2 & wreq) & X!ereq -> X(nextstate[4]))
+id: 112 comment: 
+G(ereq & X(!ereq & wreq) -> X(nextstate[4]))
+id: 113 comment: 
+G((!ereq & wreq) & Xereq -> X(nextstate[4]))
+id: 114 comment: 
+G((((!rst & lflit_id_2) & !ereq) & !wreq) & X((!rst & !ereq) & wreq) -> X(!nextstate[4]))
+id: 115 comment: 
+G((!rst & !wreq) & X((!rst & ereq) & wreq) -> X(!nextstate[4]))
+id: 116 comment: 
+G(!rst & X(!rst & !wreq) -> X(!nextstate[4]))
+id: 117 comment: 
+G(1 & Xrst -> X(!nextstate[4]))
+id: 118 comment: 
+G(rst & X!rst -> X(!nextstate[4]))
+id: 119 comment: 
+G(1 & Xrst -> XX(nextstate[0]))
+id: 120 comment: 
+G(rst & X1 -> XX(nextstate[0]))
+id: 121 comment: 
+G((!lflit_id_1 & sreq) & X!sreq -> XX(nextstate[0]))
+id: 122 comment: 
+G((((lreq & nreq) & !wreq) & !sreq) & X!nreq -> XX(nextstate[0]))
+id: 123 comment: 
+G((!lreq & !nreq) & X(lreq & !nreq) -> XX(nextstate[0]))
+id: 124 comment: 
+G((!lreq & !ereq) & X(lreq & !nreq) -> XX(nextstate[0]))
+id: 125 comment: 
+G(((!lreq & !ereq) & !wreq) & X(!lreq & ereq) -> XX(nextstate[0]))
+id: 126 comment: 
+G(((!lreq & !ereq) & !wreq) & X(!nreq & ereq) -> XX(nextstate[0]))
+id: 127 comment: 
+G(((!nreq & !ereq) & !wreq) & X(!lreq & ereq) -> XX(nextstate[0]))
+id: 128 comment: 
+G(((!ereq & !wreq) & !sreq) & X(!lreq & ereq) -> XX(nextstate[0]))
+id: 129 comment: 
+G((!wreq & !sreq) & X(!lreq & wreq) -> XX(nextstate[0]))
+id: 130 comment: 
+G(((((!rst & !lreq) & !nreq) & wreq) & !sreq) & X(((((!rst & lflit_id_2) & !lreq) & !nreq) & wreq) & !sreq) -> XX(!nextstate[0]))
+id: 131 comment: 
+G((!rst & sreq) & X(!rst & lflit_id_2) -> XX(!nextstate[0]))
+id: 132 comment: 
+G(((!rst & lflit_id_1) & sreq) & X(((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) -> XX(!nextstate[0]))
+id: 133 comment: 
+G((((!rst & lflit_id_0) & !wreq) & !sreq) & X(((!rst & nreq) & !wreq) & !sreq) -> XX(!nextstate[0]))
+id: 134 comment: 
+G((((((!rst & lreq) & !nreq) & !ereq) & !wreq) & !sreq) & X(((!rst & lreq) & !nreq) & ereq) -> XX(!nextstate[0]))
+id: 135 comment: 
+G((((((!rst & lreq) & !nreq) & !ereq) & !wreq) & !sreq) & X((!rst & !lreq) & !nreq) -> XX(!nextstate[0]))
+id: 136 comment: 
+G((((!rst & lreq) & wreq) & !sreq) & X(((!rst & !lreq) & wreq) & !sreq) -> XX(!nextstate[0]))
+id: 137 comment: 
+G(((((!rst & !lreq) & nreq) & wreq) & !sreq) & X(((!rst & !lreq) & wreq) & !sreq) -> XX(!nextstate[0]))
+id: 138 comment: 
+G(((((!rst & !lreq) & !nreq) & wreq) & !sreq) & X((((!rst & !lreq) & nreq) & wreq) & !sreq) -> XX(!nextstate[0]))
+id: 139 comment: 
+G(((((!rst & !lreq) & nreq) & !wreq) & !sreq) & X(!rst & !nreq) -> XX(!nextstate[0]))
+id: 140 comment: 
+G(((!rst & wreq) & !sreq) & X(((!rst & lreq) & wreq) & !sreq) -> XX(!nextstate[0]))
+id: 141 comment: 
+G(((!rst & !wreq) & !sreq) & X((!rst & nreq) & wreq) -> XX(!nextstate[0]))
+id: 142 comment: 
+G(((!rst & wreq) & !sreq) & X((!rst & !wreq) & !sreq) -> XX(!nextstate[0]))
+id: 143 comment: 
+G(((!rst & wreq) & !sreq) & X(!rst & sreq) -> XX(!nextstate[0]))
+id: 144 comment: 
+G(!lreq & X(ereq & sreq) -> XX(nextstate[1]))
+id: 145 comment: 
+G(sreq & X(lreq & !sreq) -> XX(nextstate[1]))
+id: 146 comment: 
+G((((!rst & lflit_id_2) & !lreq) & !sreq) & X((!rst & !lreq) & !sreq) -> XX(!nextstate[1]))
+id: 147 comment: 
+G((!rst & ereq) & X((((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & lreq) & !ereq) & sreq) -> XX(!nextstate[1]))
+id: 148 comment: 
+G((!rst & lreq) & X(!rst & !lreq) -> XX(!nextstate[1]))
+id: 149 comment: 
+G(((!rst & !lreq) & sreq) & X((!rst & !lreq) & !sreq) -> XX(!nextstate[1]))
+id: 150 comment: 
+G((!rst & !lreq) & X((!rst & !lreq) & sreq) -> XX(!nextstate[1]))
+id: 151 comment: 
+G(1 & Xrst -> XX(!nextstate[1]))
+id: 152 comment: 
+G(rst & X!rst -> XX(!nextstate[1]))
+id: 153 comment: 
+G(lreq & X(!lreq & nreq) -> XX(nextstate[2]))
+id: 154 comment: 
+G((!lreq & nreq) & X(lreq & wreq) -> XX(nextstate[2]))
+id: 155 comment: 
+G(((((!rst & lflit_id_2) & lreq) & nreq) & !wreq) & X(((!rst & lreq) & nreq) & !wreq) -> XX(!nextstate[2]))
+id: 156 comment: 
+G(((!rst & lflit_id_2) & !nreq) & X(!rst & !nreq) -> XX(!nextstate[2]))
+id: 157 comment: 
+G(((((!rst & !lflit_id_2) & !lreq) & !nreq) & !sreq) & X(((!rst & !lreq) & nreq) & !sreq) -> XX(!nextstate[2]))
+id: 158 comment: 
+G(((!rst & !lreq) & nreq) & X(((!rst & lreq) & nreq) & !wreq) -> XX(!nextstate[2]))
+id: 159 comment: 
+G((!rst & !nreq) & X((!rst & lreq) & nreq) -> XX(!nextstate[2]))
+id: 160 comment: 
+G((!rst & nreq) & X(!rst & !nreq) -> XX(!nextstate[2]))
+id: 161 comment: 
+G(1 & Xrst -> XX(!nextstate[2]))
+id: 162 comment: 
+G(rst & X!rst -> XX(!nextstate[2]))
+id: 163 comment: 
+G(((lreq & !nreq) & !wreq) & Xereq -> XX(nextstate[3]))
+id: 164 comment: 
+G(((lreq & !nreq) & !sreq) & Xereq -> XX(nextstate[3]))
+id: 165 comment: 
+G((lreq & !wreq) & X(!nreq & ereq) -> XX(nextstate[3]))
+id: 166 comment: 
+G((lreq & !sreq) & X(!nreq & ereq) -> XX(nextstate[3]))
+id: 167 comment: 
+G((!lreq & ereq) & X(lreq & ereq) -> XX(nextstate[3]))
+id: 168 comment: 
+G(nreq & X(!nreq & ereq) -> XX(nextstate[3]))
+id: 169 comment: 
+G(wreq & X((!nreq & ereq) & !wreq) -> XX(nextstate[3]))
+id: 170 comment: 
+G((((((!rst & lflit_id_2) & !lreq) & nreq) & ereq) & !sreq) & X((((!rst & !lreq) & nreq) & ereq) & !sreq) -> XX(!nextstate[3]))
+id: 171 comment: 
+G((!rst & !ereq) & X((!rst & lflit_id_2) & !ereq) -> XX(!nextstate[3]))
+id: 172 comment: 
+G(((!rst & !ereq) & wreq) & X((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !ereq) -> XX(!nextstate[3]))
+id: 173 comment: 
+G(((!rst & !ereq) & !wreq) & X(((((((!rst & !lflit_id_2) & !nflit_id_2) & !eflit_id_2) & !wflit_id_2) & !sflit_id_2) & !ereq) & wreq) -> XX(!nextstate[3]))
+id: 174 comment: 
+G((((!rst & lreq) & !nreq) & ereq) & X(((!rst & lreq) & nreq) & ereq) -> XX(!nextstate[3]))
+id: 175 comment: 
+G(((((!rst & !lreq) & !nreq) & ereq) & !sreq) & X((((!rst & !lreq) & nreq) & ereq) & !sreq) -> XX(!nextstate[3]))
+id: 176 comment: 
+G((((((!rst & !lreq) & !nreq) & !ereq) & !wreq) & !sreq) & X((!rst & !nreq) & ereq) -> XX(!nextstate[3]))
+id: 177 comment: 
+G((((!rst & !nreq) & !ereq) & wreq) & X((!rst & !nreq) & ereq) -> XX(!nextstate[3]))
+id: 178 comment: 
+G((!rst & !ereq) & X((!rst & nreq) & ereq) -> XX(!nextstate[3]))
+id: 179 comment: 
+G((!rst & ereq) & X(!rst & !ereq) -> XX(!nextstate[3]))
+id: 180 comment: 
+G(1 & Xrst -> XX(!nextstate[3]))
+id: 181 comment: 
+G(rst & X!rst -> XX(!nextstate[3]))
+id: 182 comment: 
+G(!ereq & X(lflit_id_2 & wreq) -> XX(nextstate[4]))
+id: 183 comment: 
+G(1 & X((lflit_id_2 & !ereq) & wreq) -> XX(nextstate[4]))
+id: 184 comment: 
+G((!ereq & wreq) & X(!lflit_id_1 & ereq) -> XX(nextstate[4]))
+id: 185 comment: 
+G(ereq & X(!ereq & wreq) -> XX(nextstate[4]))
+id: 186 comment: 
+G(((!rst & lflit_id_2) & !wreq) & X(!rst & !wreq) -> XX(!nextstate[4]))
+id: 187 comment: 
+G((!rst & !wreq) & X((!rst & ereq) & wreq) -> XX(!nextstate[4]))
+id: 188 comment: 
+G((!rst & wreq) & X(!rst & !wreq) -> XX(!nextstate[4]))
+id: 189 comment: 
+G(1 & Xrst -> XX(!nextstate[4]))
+id: 190 comment: 
+G(rst & X!rst -> XX(!nextstate[4]))

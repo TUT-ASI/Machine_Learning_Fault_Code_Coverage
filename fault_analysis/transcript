@@ -1,0 +1,83 @@
+# //  Questa Sim-64
+# //  Version 10.5c linux_x86_64 Jul 20 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do sim_arbiter.do
+# QuestaSim-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+# Start time: 13:12:07 on Apr 24,2018
+# vlog -reportprogress 300 -work work DUTs/state_defines.v 
+# End time: 13:12:07 on Apr 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+# Start time: 13:12:07 on Apr 24,2018
+# vlog -reportprogress 300 -work work DUTs/parameters.v 
+# End time: 13:12:07 on Apr 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+# Start time: 13:12:07 on Apr 24,2018
+# vlog -reportprogress 300 -work work -cover bcesfx -vopt "+incdir+" -cover bcesfx DUTs/arbiter.v 
+# -- Compiling module arbiter
+# -- Compiling module timer
+# 
+# Top level modules:
+# 	arbiter
+# End time: 13:12:07 on Apr 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+# Start time: 13:12:07 on Apr 24,2018
+# vlog -reportprogress 300 -sv Testbench/bfm_arbiter.sv 
+# -- Compiling module bfm_arbiter
+# 
+# Top level modules:
+# 	bfm_arbiter
+# End time: 13:12:07 on Apr 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+# Start time: 13:12:07 on Apr 24,2018
+# vlog -reportprogress 300 -sv Testbench/tb_userinterface.sv 
+# -- Compiling module tb_userinterface
+# 
+# Top level modules:
+# 	tb_userinterface
+# End time: 13:12:07 on Apr 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -assertdebug -coverage -voptargs=""+cover=bcestfx"" work.tb_userinterface 
+# Start time: 13:12:07 on Apr 24,2018
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading sv_std.std
+# Loading work.tb_userinterface
+# Loading work.bfm_arbiter
+# Refreshing /home/tara/Desktop/machine_learnig_assertion_qualification/fault_analysis/work.arbiter
+# ** Note: (vlog-143) Recognized 1 FSM in module "arbiter(verilog)".
+# Loading work.arbiter
+# Refreshing /home/tara/Desktop/machine_learnig_assertion_qualification/fault_analysis/work.timer
+# Loading work.timer
+# .main_pane.assertions.interior.cs.body
+# TIME:0 Reset is working
+# 
+# TIME:2300000 Reset is working
+# 
+# 
+#  ****** Simulation Complete ********** 
+# 
+# ** Note: $stop    : Testbench/tb_userinterface.sv(226)
+#    Time: 2340 ns  Iteration: 0  Instance: :tb_userinterface
+# Break in NamedBeginStat SIM at Testbench/tb_userinterface.sv line 226
+# QuestaSim-64 vcover 10.5c Coverage Utility 2016.07 Jul 20 2016
+# Start time: 13:12:12 on Apr 24,2018
+# vcover report -assert -detail -output results/assertion_report_det.txt results/coverage_arbiter.ucdb 
+# End time: 13:12:12 on Apr 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Break key hit
+# End time: 17:41:39 on Apr 24,2018, Elapsed time: 4:29:32
+# Errors: 0, Warnings: 1

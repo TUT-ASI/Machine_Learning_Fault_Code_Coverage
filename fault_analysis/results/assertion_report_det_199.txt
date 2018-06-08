@@ -1,0 +1,1130 @@
+
+ASSERTION RESULTS:
+-------------------------------------------------------
+Name                 File(Line)           Failure Pass 
+                                          Count   Count 
+-------------------------------------------------------
+:tb_userinterface:BFM:property_0_assert
+                     Testbench/bfm_arbiter.sv(3367)       0     5
+:tb_userinterface:BFM:property_1_assert
+                     Testbench/bfm_arbiter.sv(3368)       3    25
+:tb_userinterface:BFM:property_2_assert
+                     Testbench/bfm_arbiter.sv(3369)       0     5
+:tb_userinterface:BFM:property_3_assert
+                     Testbench/bfm_arbiter.sv(3370)       0    14
+:tb_userinterface:BFM:property_4_assert
+                     Testbench/bfm_arbiter.sv(3371)       0    17
+:tb_userinterface:BFM:property_5_assert
+                     Testbench/bfm_arbiter.sv(3372)       0     5
+:tb_userinterface:BFM:property_6_assert
+                     Testbench/bfm_arbiter.sv(3373)       0     4
+:tb_userinterface:BFM:property_7_assert
+                     Testbench/bfm_arbiter.sv(3374)       0    10
+:tb_userinterface:BFM:property_8_assert
+                     Testbench/bfm_arbiter.sv(3375)       0     7
+:tb_userinterface:BFM:property_9_assert
+                     Testbench/bfm_arbiter.sv(3376)       0     6
+:tb_userinterface:BFM:property_10_assert
+                     Testbench/bfm_arbiter.sv(3377)       0     6
+:tb_userinterface:BFM:property_11_assert
+                     Testbench/bfm_arbiter.sv(3378)       0    12
+:tb_userinterface:BFM:property_12_assert
+                     Testbench/bfm_arbiter.sv(3379)       0   115
+:tb_userinterface:BFM:property_13_assert
+                     Testbench/bfm_arbiter.sv(3380)       0     5
+:tb_userinterface:BFM:property_14_assert
+                     Testbench/bfm_arbiter.sv(3381)       0     3
+:tb_userinterface:BFM:property_15_assert
+                     Testbench/bfm_arbiter.sv(3382)       0     3
+:tb_userinterface:BFM:property_16_assert
+                     Testbench/bfm_arbiter.sv(3383)       0     4
+:tb_userinterface:BFM:property_17_assert
+                     Testbench/bfm_arbiter.sv(3384)       0     3
+:tb_userinterface:BFM:property_18_assert
+                     Testbench/bfm_arbiter.sv(3385)       0   123
+:tb_userinterface:BFM:property_19_assert
+                     Testbench/bfm_arbiter.sv(3386)       0     5
+:tb_userinterface:BFM:property_20_assert
+                     Testbench/bfm_arbiter.sv(3387)       0     3
+:tb_userinterface:BFM:property_21_assert
+                     Testbench/bfm_arbiter.sv(3388)       0     3
+:tb_userinterface:BFM:property_22_assert
+                     Testbench/bfm_arbiter.sv(3389)       0     6
+:tb_userinterface:BFM:property_23_assert
+                     Testbench/bfm_arbiter.sv(3390)       0   123
+:tb_userinterface:BFM:property_24_assert
+                     Testbench/bfm_arbiter.sv(3391)       0     5
+:tb_userinterface:BFM:property_25_assert
+                     Testbench/bfm_arbiter.sv(3392)       4   127
+:tb_userinterface:BFM:property_26_assert
+                     Testbench/bfm_arbiter.sv(3393)       0     5
+:tb_userinterface:BFM:property_27_assert
+                     Testbench/bfm_arbiter.sv(3394)       0     5
+:tb_userinterface:BFM:property_28_assert
+                     Testbench/bfm_arbiter.sv(3395)       0     6
+:tb_userinterface:BFM:property_29_assert
+                     Testbench/bfm_arbiter.sv(3396)       0     4
+:tb_userinterface:BFM:property_30_assert
+                     Testbench/bfm_arbiter.sv(3397)       0    14
+:tb_userinterface:BFM:property_31_assert
+                     Testbench/bfm_arbiter.sv(3398)       0     7
+:tb_userinterface:BFM:property_32_assert
+                     Testbench/bfm_arbiter.sv(3399)       0     7
+:tb_userinterface:BFM:property_33_assert
+                     Testbench/bfm_arbiter.sv(3400)       0    39
+:tb_userinterface:BFM:property_34_assert
+                     Testbench/bfm_arbiter.sv(3401)       0     7
+:tb_userinterface:BFM:property_35_assert
+                     Testbench/bfm_arbiter.sv(3402)       0     5
+:tb_userinterface:BFM:property_36_assert
+                     Testbench/bfm_arbiter.sv(3403)       0     5
+:tb_userinterface:BFM:property_37_assert
+                     Testbench/bfm_arbiter.sv(3404)       0     3
+:tb_userinterface:BFM:property_38_assert
+                     Testbench/bfm_arbiter.sv(3405)       0     6
+:tb_userinterface:BFM:property_39_assert
+                     Testbench/bfm_arbiter.sv(3406)       0    16
+:tb_userinterface:BFM:property_40_assert
+                     Testbench/bfm_arbiter.sv(3407)       0     2
+:tb_userinterface:BFM:property_41_assert
+                     Testbench/bfm_arbiter.sv(3408)       0     6
+:tb_userinterface:BFM:property_42_assert
+                     Testbench/bfm_arbiter.sv(3409)       0     4
+:tb_userinterface:BFM:property_43_assert
+                     Testbench/bfm_arbiter.sv(3410)       0     6
+:tb_userinterface:BFM:property_44_assert
+                     Testbench/bfm_arbiter.sv(3411)       0    21
+:tb_userinterface:BFM:property_45_assert
+                     Testbench/bfm_arbiter.sv(3412)       0    14
+:tb_userinterface:BFM:property_46_assert
+                     Testbench/bfm_arbiter.sv(3413)       0    33
+:tb_userinterface:BFM:property_47_assert
+                     Testbench/bfm_arbiter.sv(3414)       0     9
+:tb_userinterface:BFM:property_48_assert
+                     Testbench/bfm_arbiter.sv(3415)       0     5
+:tb_userinterface:BFM:property_49_assert
+                     Testbench/bfm_arbiter.sv(3416)       0     4
+:tb_userinterface:BFM:property_50_assert
+                     Testbench/bfm_arbiter.sv(3417)       0    24
+:tb_userinterface:BFM:property_51_assert
+                     Testbench/bfm_arbiter.sv(3418)       0    14
+:tb_userinterface:BFM:property_52_assert
+                     Testbench/bfm_arbiter.sv(3419)       0    19
+:tb_userinterface:BFM:property_53_assert
+                     Testbench/bfm_arbiter.sv(3420)       0    20
+:tb_userinterface:BFM:property_54_assert
+                     Testbench/bfm_arbiter.sv(3421)       0     2
+:tb_userinterface:BFM:property_55_assert
+                     Testbench/bfm_arbiter.sv(3422)       0     3
+:tb_userinterface:BFM:property_56_assert
+                     Testbench/bfm_arbiter.sv(3423)       0     5
+:tb_userinterface:BFM:property_57_assert
+                     Testbench/bfm_arbiter.sv(3424)       0     3
+:tb_userinterface:BFM:property_58_assert
+                     Testbench/bfm_arbiter.sv(3425)       0     3
+:tb_userinterface:BFM:property_59_assert
+                     Testbench/bfm_arbiter.sv(3426)       0    23
+:tb_userinterface:BFM:property_60_assert
+                     Testbench/bfm_arbiter.sv(3427)       0     7
+:tb_userinterface:BFM:property_61_assert
+                     Testbench/bfm_arbiter.sv(3428)       0     4
+:tb_userinterface:BFM:property_62_assert
+                     Testbench/bfm_arbiter.sv(3429)       0     3
+:tb_userinterface:BFM:property_63_assert
+                     Testbench/bfm_arbiter.sv(3430)       0    12
+:tb_userinterface:BFM:property_64_assert
+                     Testbench/bfm_arbiter.sv(3431)       0     7
+:tb_userinterface:BFM:property_65_assert
+                     Testbench/bfm_arbiter.sv(3432)       0    28
+:tb_userinterface:BFM:property_66_assert
+                     Testbench/bfm_arbiter.sv(3433)       0     1
+:tb_userinterface:BFM:property_67_assert
+                     Testbench/bfm_arbiter.sv(3434)       0     5
+:tb_userinterface:BFM:property_68_assert
+                     Testbench/bfm_arbiter.sv(3435)       0     5
+:tb_userinterface:BFM:property_69_assert
+                     Testbench/bfm_arbiter.sv(3436)       1    25
+:tb_userinterface:BFM:property_70_assert
+                     Testbench/bfm_arbiter.sv(3437)       1    24
+:tb_userinterface:BFM:property_71_assert
+                     Testbench/bfm_arbiter.sv(3438)       0     6
+:tb_userinterface:BFM:property_72_assert
+                     Testbench/bfm_arbiter.sv(3439)       0     5
+:tb_userinterface:BFM:property_76_assert
+                     Testbench/bfm_arbiter.sv(3440)       0     5
+:tb_userinterface:BFM:property_77_assert
+                     Testbench/bfm_arbiter.sv(3441)       0     9
+:tb_userinterface:BFM:property_79_assert
+                     Testbench/bfm_arbiter.sv(3442)       0     1
+:tb_userinterface:BFM:property_80_assert
+                     Testbench/bfm_arbiter.sv(3443)       0     1
+:tb_userinterface:BFM:property_82_assert
+                     Testbench/bfm_arbiter.sv(3444)       0     1
+:tb_userinterface:BFM:property_83_assert
+                     Testbench/bfm_arbiter.sv(3445)       0     1
+:tb_userinterface:BFM:property_84_assert
+                     Testbench/bfm_arbiter.sv(3446)       0     1
+:tb_userinterface:BFM:property_86_assert
+                     Testbench/bfm_arbiter.sv(3447)       0     2
+:tb_userinterface:BFM:property_92_assert
+                     Testbench/bfm_arbiter.sv(3448)       0     1
+:tb_userinterface:BFM:property_93_assert
+                     Testbench/bfm_arbiter.sv(3449)       0     1
+:tb_userinterface:BFM:property_96_assert
+                     Testbench/bfm_arbiter.sv(3450)       0     3
+:tb_userinterface:BFM:property_98_assert
+                     Testbench/bfm_arbiter.sv(3451)       0     5
+:tb_userinterface:BFM:property_99_assert
+                     Testbench/bfm_arbiter.sv(3452)       0     1
+:tb_userinterface:BFM:property_100_assert
+                     Testbench/bfm_arbiter.sv(3453)       0     1
+:tb_userinterface:BFM:property_102_assert
+                     Testbench/bfm_arbiter.sv(3454)       0     1
+:tb_userinterface:BFM:property_103_assert
+                     Testbench/bfm_arbiter.sv(3455)       0     3
+:tb_userinterface:BFM:property_105_assert
+                     Testbench/bfm_arbiter.sv(3456)       0     1
+:tb_userinterface:BFM:property_106_assert
+                     Testbench/bfm_arbiter.sv(3457)       0     3
+:tb_userinterface:BFM:property_108_assert
+                     Testbench/bfm_arbiter.sv(3458)       0     5
+:tb_userinterface:BFM:property_109_assert
+                     Testbench/bfm_arbiter.sv(3459)       0     1
+:tb_userinterface:BFM:property_112_assert
+                     Testbench/bfm_arbiter.sv(3460)       0     1
+:tb_userinterface:BFM:property_114_assert
+                     Testbench/bfm_arbiter.sv(3461)       0     1
+:tb_userinterface:BFM:property_115_assert
+                     Testbench/bfm_arbiter.sv(3462)       0     2
+:tb_userinterface:BFM:property_117_assert
+                     Testbench/bfm_arbiter.sv(3463)       0     5
+:tb_userinterface:BFM:property_118_assert
+                     Testbench/bfm_arbiter.sv(3464)       0     1
+:tb_userinterface:BFM:property_121_assert
+                     Testbench/bfm_arbiter.sv(3465)       1     0
+:tb_userinterface:BFM:property_122_assert
+                     Testbench/bfm_arbiter.sv(3466)       0     1
+:tb_userinterface:BFM:property_123_assert
+                     Testbench/bfm_arbiter.sv(3467)       0     1
+:tb_userinterface:BFM:property_124_assert
+                     Testbench/bfm_arbiter.sv(3468)       0     1
+:tb_userinterface:BFM:property_125_assert
+                     Testbench/bfm_arbiter.sv(3469)       0     1
+:tb_userinterface:BFM:property_126_assert
+                     Testbench/bfm_arbiter.sv(3470)       0     1
+:tb_userinterface:BFM:property_127_assert
+                     Testbench/bfm_arbiter.sv(3471)       0     1
+:tb_userinterface:BFM:property_128_assert
+                     Testbench/bfm_arbiter.sv(3472)       0     1
+:tb_userinterface:BFM:property_129_assert
+                     Testbench/bfm_arbiter.sv(3473)       1     0
+:tb_userinterface:BFM:property_130_assert
+                     Testbench/bfm_arbiter.sv(3474)       0     6
+:tb_userinterface:BFM:property_131_assert
+                     Testbench/bfm_arbiter.sv(3475)       0    16
+:tb_userinterface:BFM:property_132_assert
+                     Testbench/bfm_arbiter.sv(3476)       0    34
+:tb_userinterface:BFM:property_133_assert
+                     Testbench/bfm_arbiter.sv(3477)       0     6
+:tb_userinterface:BFM:property_134_assert
+                     Testbench/bfm_arbiter.sv(3478)       0     1
+:tb_userinterface:BFM:property_135_assert
+                     Testbench/bfm_arbiter.sv(3479)       0     1
+:tb_userinterface:BFM:property_136_assert
+                     Testbench/bfm_arbiter.sv(3480)       0     1
+:tb_userinterface:BFM:property_137_assert
+                     Testbench/bfm_arbiter.sv(3481)       0     7
+:tb_userinterface:BFM:property_138_assert
+                     Testbench/bfm_arbiter.sv(3482)       0     1
+:tb_userinterface:BFM:property_139_assert
+                     Testbench/bfm_arbiter.sv(3483)       0     2
+:tb_userinterface:BFM:property_140_assert
+                     Testbench/bfm_arbiter.sv(3484)       0     7
+:tb_userinterface:BFM:property_141_assert
+                     Testbench/bfm_arbiter.sv(3485)       0     2
+:tb_userinterface:BFM:property_142_assert
+                     Testbench/bfm_arbiter.sv(3486)       0     2
+:tb_userinterface:BFM:property_143_assert
+                     Testbench/bfm_arbiter.sv(3487)       0     1
+:tb_userinterface:BFM:property_144_assert
+                     Testbench/bfm_arbiter.sv(3488)       0     1
+:tb_userinterface:BFM:property_145_assert
+                     Testbench/bfm_arbiter.sv(3489)       0     2
+:tb_userinterface:BFM:property_146_assert
+                     Testbench/bfm_arbiter.sv(3490)       0    19
+:tb_userinterface:BFM:property_147_assert
+                     Testbench/bfm_arbiter.sv(3491)       0     1
+:tb_userinterface:BFM:property_148_assert
+                     Testbench/bfm_arbiter.sv(3492)       0     6
+:tb_userinterface:BFM:property_149_assert
+                     Testbench/bfm_arbiter.sv(3493)       0     2
+:tb_userinterface:BFM:property_150_assert
+                     Testbench/bfm_arbiter.sv(3494)       0     8
+:tb_userinterface:BFM:property_152_assert
+                     Testbench/bfm_arbiter.sv(3495)       0     1
+:tb_userinterface:BFM:property_153_assert
+                     Testbench/bfm_arbiter.sv(3496)       0     1
+:tb_userinterface:BFM:property_154_assert
+                     Testbench/bfm_arbiter.sv(3497)       0     1
+:tb_userinterface:BFM:property_155_assert
+                     Testbench/bfm_arbiter.sv(3498)       0     3
+:tb_userinterface:BFM:property_156_assert
+                     Testbench/bfm_arbiter.sv(3499)       0    22
+:tb_userinterface:BFM:property_157_assert
+                     Testbench/bfm_arbiter.sv(3500)       0     2
+:tb_userinterface:BFM:property_158_assert
+                     Testbench/bfm_arbiter.sv(3501)       0     1
+:tb_userinterface:BFM:property_159_assert
+                     Testbench/bfm_arbiter.sv(3502)       0     3
+:tb_userinterface:BFM:property_160_assert
+                     Testbench/bfm_arbiter.sv(3503)       0     6
+:tb_userinterface:BFM:property_162_assert
+                     Testbench/bfm_arbiter.sv(3504)       0     1
+:tb_userinterface:BFM:property_163_assert
+                     Testbench/bfm_arbiter.sv(3505)       0     1
+:tb_userinterface:BFM:property_164_assert
+                     Testbench/bfm_arbiter.sv(3506)       0     1
+:tb_userinterface:BFM:property_165_assert
+                     Testbench/bfm_arbiter.sv(3507)       0     2
+:tb_userinterface:BFM:property_166_assert
+                     Testbench/bfm_arbiter.sv(3508)       0     1
+:tb_userinterface:BFM:property_167_assert
+                     Testbench/bfm_arbiter.sv(3509)       0     1
+:tb_userinterface:BFM:property_168_assert
+                     Testbench/bfm_arbiter.sv(3510)       0     1
+:tb_userinterface:BFM:property_169_assert
+                     Testbench/bfm_arbiter.sv(3511)       0     1
+:tb_userinterface:BFM:property_170_assert
+                     Testbench/bfm_arbiter.sv(3512)       0     3
+:tb_userinterface:BFM:property_171_assert
+                     Testbench/bfm_arbiter.sv(3513)       0    22
+:tb_userinterface:BFM:property_172_assert
+                     Testbench/bfm_arbiter.sv(3514)       0    24
+:tb_userinterface:BFM:property_173_assert
+                     Testbench/bfm_arbiter.sv(3515)       0     3
+:tb_userinterface:BFM:property_174_assert
+                     Testbench/bfm_arbiter.sv(3516)       0     1
+:tb_userinterface:BFM:property_175_assert
+                     Testbench/bfm_arbiter.sv(3517)       0     1
+:tb_userinterface:BFM:property_176_assert
+                     Testbench/bfm_arbiter.sv(3518)       0     1
+:tb_userinterface:BFM:property_177_assert
+                     Testbench/bfm_arbiter.sv(3519)       0     1
+:tb_userinterface:BFM:property_178_assert
+                     Testbench/bfm_arbiter.sv(3520)       0     3
+:tb_userinterface:BFM:property_179_assert
+                     Testbench/bfm_arbiter.sv(3521)       0     7
+:tb_userinterface:BFM:property_180_assert
+                     Testbench/bfm_arbiter.sv(3522)       0     5
+:tb_userinterface:BFM:property_181_assert
+                     Testbench/bfm_arbiter.sv(3523)       0     1
+:tb_userinterface:BFM:property_182_assert
+                     Testbench/bfm_arbiter.sv(3524)       0     6
+:tb_userinterface:BFM:property_183_assert
+                     Testbench/bfm_arbiter.sv(3525)       0     5
+:tb_userinterface:BFM:property_184_assert
+                     Testbench/bfm_arbiter.sv(3526)       0     1
+:tb_userinterface:BFM:property_185_assert
+                     Testbench/bfm_arbiter.sv(3527)       0     1
+:tb_userinterface:BFM:property_186_assert
+                     Testbench/bfm_arbiter.sv(3528)       1    23
+:tb_userinterface:BFM:property_187_assert
+                     Testbench/bfm_arbiter.sv(3529)       0     2
+:tb_userinterface:BFM:property_188_assert
+                     Testbench/bfm_arbiter.sv(3530)       1     4
+:tb_userinterface:BFM:property_190_assert
+                     Testbench/bfm_arbiter.sv(3531)       0     1
+:tb_userinterface:BFM:property_n1_assert
+                     Testbench/bfm_arbiter.sv(3533)       0     5
+:tb_userinterface:BFM:property_n2_assert
+                     Testbench/bfm_arbiter.sv(3534)       0    28
+:tb_userinterface:BFM:property_n3_assert
+                     Testbench/bfm_arbiter.sv(3535)       0     6
+:tb_userinterface:BFM:property_n4_assert
+                     Testbench/bfm_arbiter.sv(3536)       0     6
+:tb_userinterface:BFM:property_n5_assert
+                     Testbench/bfm_arbiter.sv(3537)       0     6
+:tb_userinterface:BFM:property_n6_assert
+                     Testbench/bfm_arbiter.sv(3538)       0    17
+:tb_userinterface:BFM:property_n7_assert
+                     Testbench/bfm_arbiter.sv(3539)       0    14
+:tb_userinterface:BFM:property_n8_assert
+                     Testbench/bfm_arbiter.sv(3540)       0     6
+:tb_userinterface:BFM:property_n9_assert
+                     Testbench/bfm_arbiter.sv(3541)       0     4
+:tb_userinterface:BFM:property_n10_assert
+                     Testbench/bfm_arbiter.sv(3542)       0    12
+:tb_userinterface:BFM:property_n11_assert
+                     Testbench/bfm_arbiter.sv(3543)       0     6
+:tb_userinterface:BFM:property_n12_assert
+                     Testbench/bfm_arbiter.sv(3544)       0    10
+:tb_userinterface:BFM:property_n13_assert
+                     Testbench/bfm_arbiter.sv(3545)       0     5
+:tb_userinterface:BFM:property_n14_assert
+                     Testbench/bfm_arbiter.sv(3546)       0     7
+:tb_userinterface:BFM:property_n15_assert
+                     Testbench/bfm_arbiter.sv(3547)       0     5
+:tb_userinterface:BFM:property_n16_assert
+                     Testbench/bfm_arbiter.sv(3548)       0    10
+:tb_userinterface:BFM:property_n17_assert
+                     Testbench/bfm_arbiter.sv(3549)       0     2
+:tb_userinterface:BFM:property_n18_assert
+                     Testbench/bfm_arbiter.sv(3550)       0     2
+:tb_userinterface:BFM:property_n19_assert
+                     Testbench/bfm_arbiter.sv(3551)       0     2
+:tb_userinterface:BFM:property_n20_assert
+                     Testbench/bfm_arbiter.sv(3552)       0     2
+:tb_userinterface:BFM:property_n21_assert
+                     Testbench/bfm_arbiter.sv(3553)       0     2
+:tb_userinterface:BFM:property_n22_assert
+                     Testbench/bfm_arbiter.sv(3554)       0     5
+:tb_userinterface:BFM:property_n23_assert
+                     Testbench/bfm_arbiter.sv(3555)       0     5
+:tb_userinterface:BFM:property_n24_assert
+                     Testbench/bfm_arbiter.sv(3556)       0     5
+:tb_userinterface:BFM:property_n25_assert
+                     Testbench/bfm_arbiter.sv(3557)       0     5
+:tb_userinterface:BFM:property_n26_assert
+                     Testbench/bfm_arbiter.sv(3558)       0     5
+:tb_userinterface:BFM:property_n27_assert
+                     Testbench/bfm_arbiter.sv(3559)       0     6
+:tb_userinterface:BFM:property_n28_assert
+                     Testbench/bfm_arbiter.sv(3560)       0     6
+:tb_userinterface:BFM:property_n29_assert
+                     Testbench/bfm_arbiter.sv(3561)       0     6
+:tb_userinterface:BFM:property_n30_assert
+                     Testbench/bfm_arbiter.sv(3562)       0     6
+:tb_userinterface:BFM:property_n31_assert
+                     Testbench/bfm_arbiter.sv(3563)       0     6
+:tb_userinterface:BFM:property_n32_assert
+                     Testbench/bfm_arbiter.sv(3564)       0     6
+:tb_userinterface:BFM:property_n33_assert
+                     Testbench/bfm_arbiter.sv(3565)       0     6
+:tb_userinterface:BFM:property_n34_assert
+                     Testbench/bfm_arbiter.sv(3566)       0     6
+:tb_userinterface:BFM:property_n35_assert
+                     Testbench/bfm_arbiter.sv(3567)       0     6
+:tb_userinterface:BFM:property_n36_assert
+                     Testbench/bfm_arbiter.sv(3568)       0     6
+:tb_userinterface:BFM:property_n37_assert
+                     Testbench/bfm_arbiter.sv(3569)       0     2
+:tb_userinterface:BFM:property_n38_assert
+                     Testbench/bfm_arbiter.sv(3570)       0     2
+:tb_userinterface:BFM:property_n39_assert
+                     Testbench/bfm_arbiter.sv(3571)       0     3
+:tb_userinterface:BFM:property_n40_assert
+                     Testbench/bfm_arbiter.sv(3572)       0     1
+:tb_userinterface:BFM:property_n41_assert
+                     Testbench/bfm_arbiter.sv(3573)       0     1
+:tb_userinterface:BFM:property_n42_assert
+                     Testbench/bfm_arbiter.sv(3574)       0     5
+:tb_userinterface:BFM:property_n43_assert
+                     Testbench/bfm_arbiter.sv(3575)       0     2
+:tb_userinterface:BFM:property_n44_assert
+                     Testbench/bfm_arbiter.sv(3576)       0     2
+:tb_userinterface:BFM:property_n45_assert
+                     Testbench/bfm_arbiter.sv(3577)       0   115
+:tb_userinterface:BFM:property_n46_assert
+                     Testbench/bfm_arbiter.sv(3578)       0     5
+:tb_userinterface:BFM:property_n47_assert
+                     Testbench/bfm_arbiter.sv(3579)       0     3
+:tb_userinterface:BFM:property_n48_assert
+                     Testbench/bfm_arbiter.sv(3580)       0     1
+:tb_userinterface:BFM:property_n49_assert
+                     Testbench/bfm_arbiter.sv(3581)       0     1
+:tb_userinterface:BFM:property_n50_assert
+                     Testbench/bfm_arbiter.sv(3582)       0     1
+:tb_userinterface:BFM:property_n51_assert
+                     Testbench/bfm_arbiter.sv(3583)       0     1
+:tb_userinterface:BFM:property_n52_assert
+                     Testbench/bfm_arbiter.sv(3584)       0     1
+:tb_userinterface:BFM:property_n53_assert
+                     Testbench/bfm_arbiter.sv(3585)       0     3
+:tb_userinterface:BFM:property_n54_assert
+                     Testbench/bfm_arbiter.sv(3586)       0     6
+:tb_userinterface:BFM:property_n55_assert
+                     Testbench/bfm_arbiter.sv(3587)       0     2
+:tb_userinterface:BFM:property_n56_assert
+                     Testbench/bfm_arbiter.sv(3588)       0     4
+:tb_userinterface:BFM:property_n57_assert
+                     Testbench/bfm_arbiter.sv(3589)       0     5
+:tb_userinterface:BFM:property_n58_assert
+                     Testbench/bfm_arbiter.sv(3590)       0     1
+:tb_userinterface:BFM:property_n59_assert
+                     Testbench/bfm_arbiter.sv(3591)       0     4
+:tb_userinterface:BFM:property_n60_assert
+                     Testbench/bfm_arbiter.sv(3592)       0     3
+:tb_userinterface:BFM:property_n61_assert
+                     Testbench/bfm_arbiter.sv(3593)       0   123
+:tb_userinterface:BFM:property_n62_assert
+                     Testbench/bfm_arbiter.sv(3594)       0     5
+:tb_userinterface:BFM:property_n63_assert
+                     Testbench/bfm_arbiter.sv(3595)       0     1
+:tb_userinterface:BFM:property_n64_assert
+                     Testbench/bfm_arbiter.sv(3596)       0     1
+:tb_userinterface:BFM:property_n65_assert
+                     Testbench/bfm_arbiter.sv(3597)       0     1
+:tb_userinterface:BFM:property_n66_assert
+                     Testbench/bfm_arbiter.sv(3598)       0     1
+:tb_userinterface:BFM:property_n67_assert
+                     Testbench/bfm_arbiter.sv(3599)       0     1
+:tb_userinterface:BFM:property_n68_assert
+                     Testbench/bfm_arbiter.sv(3600)       0     1
+:tb_userinterface:BFM:property_n69_assert
+                     Testbench/bfm_arbiter.sv(3601)       0     1
+:tb_userinterface:BFM:property_n70_assert
+                     Testbench/bfm_arbiter.sv(3602)       0     1
+:tb_userinterface:BFM:property_n71_assert
+                     Testbench/bfm_arbiter.sv(3603)       0     1
+:tb_userinterface:BFM:property_n72_assert
+                     Testbench/bfm_arbiter.sv(3604)       0     1
+:tb_userinterface:BFM:property_n73_assert
+                     Testbench/bfm_arbiter.sv(3605)       0     2
+:tb_userinterface:BFM:property_n74_assert
+                     Testbench/bfm_arbiter.sv(3606)       0     2
+:tb_userinterface:BFM:property_n75_assert
+                     Testbench/bfm_arbiter.sv(3607)       0     2
+:tb_userinterface:BFM:property_n76_assert
+                     Testbench/bfm_arbiter.sv(3608)       0     2
+:tb_userinterface:BFM:property_n77_assert
+                     Testbench/bfm_arbiter.sv(3609)       0     2
+:tb_userinterface:BFM:property_n78_assert
+                     Testbench/bfm_arbiter.sv(3610)       0     3
+:tb_userinterface:BFM:property_n79_assert
+                     Testbench/bfm_arbiter.sv(3611)       0    13
+:tb_userinterface:BFM:property_n80_assert
+                     Testbench/bfm_arbiter.sv(3612)       0     2
+:tb_userinterface:BFM:property_n81_assert
+                     Testbench/bfm_arbiter.sv(3613)       0     2
+:tb_userinterface:BFM:property_n82_assert
+                     Testbench/bfm_arbiter.sv(3614)       0     2
+:tb_userinterface:BFM:property_n83_assert
+                     Testbench/bfm_arbiter.sv(3615)       0     2
+:tb_userinterface:BFM:property_n84_assert
+                     Testbench/bfm_arbiter.sv(3616)       0     2
+:tb_userinterface:BFM:property_n85_assert
+                     Testbench/bfm_arbiter.sv(3617)       0     1
+:tb_userinterface:BFM:property_n86_assert
+                     Testbench/bfm_arbiter.sv(3618)       0     2
+:tb_userinterface:BFM:property_n87_assert
+                     Testbench/bfm_arbiter.sv(3619)       0     1
+:tb_userinterface:BFM:property_n88_assert
+                     Testbench/bfm_arbiter.sv(3620)       0     6
+:tb_userinterface:BFM:property_n89_assert
+                     Testbench/bfm_arbiter.sv(3621)       0     2
+:tb_userinterface:BFM:property_n90_assert
+                     Testbench/bfm_arbiter.sv(3622)       0     4
+:tb_userinterface:BFM:property_n91_assert
+                     Testbench/bfm_arbiter.sv(3623)       0     6
+:tb_userinterface:BFM:property_n92_assert
+                     Testbench/bfm_arbiter.sv(3624)       0     3
+:tb_userinterface:BFM:property_n93_assert
+                     Testbench/bfm_arbiter.sv(3625)       0   123
+:tb_userinterface:BFM:property_n94_assert
+                     Testbench/bfm_arbiter.sv(3626)       0     5
+:tb_userinterface:BFM:property_n95_assert
+                     Testbench/bfm_arbiter.sv(3627)       0     4
+:tb_userinterface:BFM:property_n96_assert
+                     Testbench/bfm_arbiter.sv(3628)       0     1
+:tb_userinterface:BFM:property_n97_assert
+                     Testbench/bfm_arbiter.sv(3629)       0     1
+:tb_userinterface:BFM:property_n98_assert
+                     Testbench/bfm_arbiter.sv(3630)       0     1
+:tb_userinterface:BFM:property_n99_assert
+                     Testbench/bfm_arbiter.sv(3631)       0     1
+:tb_userinterface:BFM:property_n100_assert
+                     Testbench/bfm_arbiter.sv(3632)       0     1
+:tb_userinterface:BFM:property_n101_assert
+                     Testbench/bfm_arbiter.sv(3633)       0     4
+:tb_userinterface:BFM:property_n102_assert
+                     Testbench/bfm_arbiter.sv(3634)       0     4
+:tb_userinterface:BFM:property_n103_assert
+                     Testbench/bfm_arbiter.sv(3635)       0     4
+:tb_userinterface:BFM:property_n104_assert
+                     Testbench/bfm_arbiter.sv(3636)       0     4
+:tb_userinterface:BFM:property_n105_assert
+                     Testbench/bfm_arbiter.sv(3637)       0     2
+:tb_userinterface:BFM:property_n106_assert
+                     Testbench/bfm_arbiter.sv(3638)       0     2
+:tb_userinterface:BFM:property_n107_assert
+                     Testbench/bfm_arbiter.sv(3639)       0     2
+:tb_userinterface:BFM:property_n108_assert
+                     Testbench/bfm_arbiter.sv(3640)       0     4
+:tb_userinterface:BFM:property_n109_assert
+                     Testbench/bfm_arbiter.sv(3641)       4   127
+:tb_userinterface:BFM:property_n110_assert
+                     Testbench/bfm_arbiter.sv(3642)       0     5
+:tb_userinterface:BFM:property_n111_assert
+                     Testbench/bfm_arbiter.sv(3643)       0     5
+:tb_userinterface:BFM:property_n112_assert
+                     Testbench/bfm_arbiter.sv(3644)       0     7
+:tb_userinterface:BFM:property_n113_assert
+                     Testbench/bfm_arbiter.sv(3645)       0     7
+:tb_userinterface:BFM:property_n114_assert
+                     Testbench/bfm_arbiter.sv(3646)       0     7
+:tb_userinterface:BFM:property_n115_assert
+                     Testbench/bfm_arbiter.sv(3647)       0     4
+:tb_userinterface:BFM:property_n116_assert
+                     Testbench/bfm_arbiter.sv(3648)       0    39
+:tb_userinterface:BFM:property_n117_assert
+                     Testbench/bfm_arbiter.sv(3649)       0    14
+:tb_userinterface:BFM:property_n118_assert
+                     Testbench/bfm_arbiter.sv(3650)       0     4
+:tb_userinterface:BFM:property_n119_assert
+                     Testbench/bfm_arbiter.sv(3651)       0     4
+:tb_userinterface:BFM:property_n120_assert
+                     Testbench/bfm_arbiter.sv(3652)       0    16
+:tb_userinterface:BFM:property_n121_assert
+                     Testbench/bfm_arbiter.sv(3653)       0     5
+:tb_userinterface:BFM:property_n122_assert
+                     Testbench/bfm_arbiter.sv(3654)       0     6
+:tb_userinterface:BFM:property_n123_assert
+                     Testbench/bfm_arbiter.sv(3655)       0     3
+:tb_userinterface:BFM:property_n124_assert
+                     Testbench/bfm_arbiter.sv(3656)       0     5
+:tb_userinterface:BFM:property_n125_assert
+                     Testbench/bfm_arbiter.sv(3657)       0     6
+:tb_userinterface:BFM:property_n126_assert
+                     Testbench/bfm_arbiter.sv(3658)       0     5
+:tb_userinterface:BFM:property_n127_assert
+                     Testbench/bfm_arbiter.sv(3659)       0     6
+:tb_userinterface:BFM:property_n128_assert
+                     Testbench/bfm_arbiter.sv(3660)       0     5
+:tb_userinterface:BFM:property_n129_assert
+                     Testbench/bfm_arbiter.sv(3661)       0     2
+:tb_userinterface:BFM:property_n130_assert
+                     Testbench/bfm_arbiter.sv(3662)       0     1
+:tb_userinterface:BFM:property_n131_assert
+                     Testbench/bfm_arbiter.sv(3663)       0     1
+:tb_userinterface:BFM:property_n132_assert
+                     Testbench/bfm_arbiter.sv(3664)       0     1
+:tb_userinterface:BFM:property_n133_assert
+                     Testbench/bfm_arbiter.sv(3665)       0     1
+:tb_userinterface:BFM:property_n134_assert
+                     Testbench/bfm_arbiter.sv(3666)       0     1
+:tb_userinterface:BFM:property_n135_assert
+                     Testbench/bfm_arbiter.sv(3667)       0     4
+:tb_userinterface:BFM:property_n136_assert
+                     Testbench/bfm_arbiter.sv(3668)       0     4
+:tb_userinterface:BFM:property_n137_assert
+                     Testbench/bfm_arbiter.sv(3669)       0     4
+:tb_userinterface:BFM:property_n138_assert
+                     Testbench/bfm_arbiter.sv(3670)       0     4
+:tb_userinterface:BFM:property_n139_assert
+                     Testbench/bfm_arbiter.sv(3671)       0     4
+:tb_userinterface:BFM:property_n140_assert
+                     Testbench/bfm_arbiter.sv(3672)       0     6
+:tb_userinterface:BFM:property_n141_assert
+                     Testbench/bfm_arbiter.sv(3673)       0     6
+:tb_userinterface:BFM:property_n142_assert
+                     Testbench/bfm_arbiter.sv(3674)       0     6
+:tb_userinterface:BFM:property_n143_assert
+                     Testbench/bfm_arbiter.sv(3675)       0     6
+:tb_userinterface:BFM:property_n144_assert
+                     Testbench/bfm_arbiter.sv(3676)       0     5
+:tb_userinterface:BFM:property_n145_assert
+                     Testbench/bfm_arbiter.sv(3677)       0     5
+:tb_userinterface:BFM:property_n146_assert
+                     Testbench/bfm_arbiter.sv(3678)       0     5
+:tb_userinterface:BFM:property_n147_assert
+                     Testbench/bfm_arbiter.sv(3679)       0     5
+:tb_userinterface:BFM:property_n148_assert
+                     Testbench/bfm_arbiter.sv(3680)       0     2
+:tb_userinterface:BFM:property_n149_assert
+                     Testbench/bfm_arbiter.sv(3681)       0     2
+:tb_userinterface:BFM:property_n150_assert
+                     Testbench/bfm_arbiter.sv(3682)       0     2
+:tb_userinterface:BFM:property_n151_assert
+                     Testbench/bfm_arbiter.sv(3683)       0     2
+:tb_userinterface:BFM:property_n152_assert
+                     Testbench/bfm_arbiter.sv(3684)       0     2
+:tb_userinterface:BFM:property_n153_assert
+                     Testbench/bfm_arbiter.sv(3685)       0     2
+:tb_userinterface:BFM:property_n154_assert
+                     Testbench/bfm_arbiter.sv(3686)       0     2
+:tb_userinterface:BFM:property_n155_assert
+                     Testbench/bfm_arbiter.sv(3687)       0     2
+:tb_userinterface:BFM:property_n156_assert
+                     Testbench/bfm_arbiter.sv(3688)       0     2
+:tb_userinterface:BFM:property_n157_assert
+                     Testbench/bfm_arbiter.sv(3689)       0     5
+:tb_userinterface:BFM:property_n158_assert
+                     Testbench/bfm_arbiter.sv(3690)       0     1
+:tb_userinterface:BFM:property_n159_assert
+                     Testbench/bfm_arbiter.sv(3691)       0     6
+:tb_userinterface:BFM:property_n160_assert
+                     Testbench/bfm_arbiter.sv(3692)       0     2
+:tb_userinterface:BFM:property_n161_assert
+                     Testbench/bfm_arbiter.sv(3693)       0     4
+:tb_userinterface:BFM:property_n162_assert
+                     Testbench/bfm_arbiter.sv(3694)       0     3
+:tb_userinterface:BFM:property_n163_assert
+                     Testbench/bfm_arbiter.sv(3695)       0     9
+:tb_userinterface:BFM:property_n164_assert
+                     Testbench/bfm_arbiter.sv(3696)       0    33
+:tb_userinterface:BFM:property_n165_assert
+                     Testbench/bfm_arbiter.sv(3697)       0    14
+:tb_userinterface:BFM:property_n166_assert
+                     Testbench/bfm_arbiter.sv(3698)       0     9
+:tb_userinterface:BFM:property_n167_assert
+                     Testbench/bfm_arbiter.sv(3699)       0     2
+:tb_userinterface:BFM:property_n168_assert
+                     Testbench/bfm_arbiter.sv(3700)       0     6
+:tb_userinterface:BFM:property_n169_assert
+                     Testbench/bfm_arbiter.sv(3701)       0    21
+:tb_userinterface:BFM:property_n170_assert
+                     Testbench/bfm_arbiter.sv(3702)       0     5
+:tb_userinterface:BFM:property_n171_assert
+                     Testbench/bfm_arbiter.sv(3703)       0     2
+:tb_userinterface:BFM:property_n172_assert
+                     Testbench/bfm_arbiter.sv(3704)       0     4
+:tb_userinterface:BFM:property_n173_assert
+                     Testbench/bfm_arbiter.sv(3705)       0     2
+:tb_userinterface:BFM:property_n174_assert
+                     Testbench/bfm_arbiter.sv(3706)       0     2
+:tb_userinterface:BFM:property_n175_assert
+                     Testbench/bfm_arbiter.sv(3707)       0     2
+:tb_userinterface:BFM:property_n176_assert
+                     Testbench/bfm_arbiter.sv(3708)       0     2
+:tb_userinterface:BFM:property_n177_assert
+                     Testbench/bfm_arbiter.sv(3709)       0     3
+:tb_userinterface:BFM:property_n178_assert
+                     Testbench/bfm_arbiter.sv(3710)       0     1
+:tb_userinterface:BFM:property_n179_assert
+                     Testbench/bfm_arbiter.sv(3711)       0     3
+:tb_userinterface:BFM:property_n180_assert
+                     Testbench/bfm_arbiter.sv(3712)       0     1
+:tb_userinterface:BFM:property_n181_assert
+                     Testbench/bfm_arbiter.sv(3713)       0     3
+:tb_userinterface:BFM:property_n182_assert
+                     Testbench/bfm_arbiter.sv(3714)       0     1
+:tb_userinterface:BFM:property_n183_assert
+                     Testbench/bfm_arbiter.sv(3715)       0     3
+:tb_userinterface:BFM:property_n184_assert
+                     Testbench/bfm_arbiter.sv(3716)       0     1
+:tb_userinterface:BFM:property_n185_assert
+                     Testbench/bfm_arbiter.sv(3717)       0     3
+:tb_userinterface:BFM:property_n186_assert
+                     Testbench/bfm_arbiter.sv(3718)       0     1
+:tb_userinterface:BFM:property_n187_assert
+                     Testbench/bfm_arbiter.sv(3719)       0     4
+:tb_userinterface:BFM:property_n188_assert
+                     Testbench/bfm_arbiter.sv(3720)       0     4
+:tb_userinterface:BFM:property_n189_assert
+                     Testbench/bfm_arbiter.sv(3721)       0     4
+:tb_userinterface:BFM:property_n190_assert
+                     Testbench/bfm_arbiter.sv(3722)       0     4
+:tb_userinterface:BFM:property_n191_assert
+                     Testbench/bfm_arbiter.sv(3723)       0     1
+:tb_userinterface:BFM:property_n192_assert
+                     Testbench/bfm_arbiter.sv(3724)       0     6
+:tb_userinterface:BFM:property_n193_assert
+                     Testbench/bfm_arbiter.sv(3725)       0    20
+:tb_userinterface:BFM:property_n194_assert
+                     Testbench/bfm_arbiter.sv(3726)       0     4
+:tb_userinterface:BFM:property_n195_assert
+                     Testbench/bfm_arbiter.sv(3727)       0     2
+:tb_userinterface:BFM:property_n196_assert
+                     Testbench/bfm_arbiter.sv(3728)       0    17
+:tb_userinterface:BFM:property_n197_assert
+                     Testbench/bfm_arbiter.sv(3729)       0     5
+:tb_userinterface:BFM:property_n198_assert
+                     Testbench/bfm_arbiter.sv(3730)       0    19
+:tb_userinterface:BFM:property_n199_assert
+                     Testbench/bfm_arbiter.sv(3731)       0    15
+:tb_userinterface:BFM:property_n200_assert
+                     Testbench/bfm_arbiter.sv(3732)       0    14
+:tb_userinterface:BFM:property_n201_assert
+                     Testbench/bfm_arbiter.sv(3733)       0     4
+:tb_userinterface:BFM:property_n202_assert
+                     Testbench/bfm_arbiter.sv(3734)       0     3
+:tb_userinterface:BFM:property_n203_assert
+                     Testbench/bfm_arbiter.sv(3735)       0    24
+:tb_userinterface:BFM:property_n204_assert
+                     Testbench/bfm_arbiter.sv(3736)       0     5
+:tb_userinterface:BFM:property_n205_assert
+                     Testbench/bfm_arbiter.sv(3737)       0     4
+:tb_userinterface:BFM:property_n206_assert
+                     Testbench/bfm_arbiter.sv(3738)       0     4
+:tb_userinterface:BFM:property_n207_assert
+                     Testbench/bfm_arbiter.sv(3739)       0     4
+:tb_userinterface:BFM:property_n208_assert
+                     Testbench/bfm_arbiter.sv(3740)       0     4
+:tb_userinterface:BFM:property_n209_assert
+                     Testbench/bfm_arbiter.sv(3741)       0     4
+:tb_userinterface:BFM:property_n210_assert
+                     Testbench/bfm_arbiter.sv(3742)       0     3
+:tb_userinterface:BFM:property_n211_assert
+                     Testbench/bfm_arbiter.sv(3743)       0     4
+:tb_userinterface:BFM:property_n212_assert
+                     Testbench/bfm_arbiter.sv(3744)       0     4
+:tb_userinterface:BFM:property_n213_assert
+                     Testbench/bfm_arbiter.sv(3745)       0     4
+:tb_userinterface:BFM:property_n214_assert
+                     Testbench/bfm_arbiter.sv(3746)       0     4
+:tb_userinterface:BFM:property_n215_assert
+                     Testbench/bfm_arbiter.sv(3747)       0     4
+:tb_userinterface:BFM:property_n216_assert
+                     Testbench/bfm_arbiter.sv(3748)       0     4
+:tb_userinterface:BFM:property_n217_assert
+                     Testbench/bfm_arbiter.sv(3749)       0     2
+:tb_userinterface:BFM:property_n218_assert
+                     Testbench/bfm_arbiter.sv(3750)       0     6
+:tb_userinterface:BFM:property_n219_assert
+                     Testbench/bfm_arbiter.sv(3751)       0     6
+:tb_userinterface:BFM:property_n220_assert
+                     Testbench/bfm_arbiter.sv(3752)       0     7
+:tb_userinterface:BFM:property_n221_assert
+                     Testbench/bfm_arbiter.sv(3753)       0     2
+:tb_userinterface:BFM:property_n222_assert
+                     Testbench/bfm_arbiter.sv(3754)       0     4
+:tb_userinterface:BFM:property_n223_assert
+                     Testbench/bfm_arbiter.sv(3755)       0     4
+:tb_userinterface:BFM:property_n224_assert
+                     Testbench/bfm_arbiter.sv(3756)       0    12
+:tb_userinterface:BFM:property_n225_assert
+                     Testbench/bfm_arbiter.sv(3757)       0    13
+:tb_userinterface:BFM:property_n226_assert
+                     Testbench/bfm_arbiter.sv(3758)       0    15
+:tb_userinterface:BFM:property_n227_assert
+                     Testbench/bfm_arbiter.sv(3759)       0     3
+:tb_userinterface:BFM:property_n228_assert
+                     Testbench/bfm_arbiter.sv(3760)       0     4
+:tb_userinterface:BFM:property_n229_assert
+                     Testbench/bfm_arbiter.sv(3761)       0     3
+:tb_userinterface:BFM:property_n230_assert
+                     Testbench/bfm_arbiter.sv(3762)       0    28
+:tb_userinterface:BFM:property_n231_assert
+                     Testbench/bfm_arbiter.sv(3763)       0     7
+:tb_userinterface:BFM:property_n232_assert
+                     Testbench/bfm_arbiter.sv(3764)       0    23
+:tb_userinterface:BFM:property_n233_assert
+                     Testbench/bfm_arbiter.sv(3765)       0     5
+:tb_userinterface:BFM:property_n234_assert
+                     Testbench/bfm_arbiter.sv(3766)       0     5
+:tb_userinterface:BFM:property_n235_assert
+                     Testbench/bfm_arbiter.sv(3767)       0     2
+:tb_userinterface:BFM:property_n236_assert
+                     Testbench/bfm_arbiter.sv(3768)       0     2
+:tb_userinterface:BFM:property_n237_assert
+                     Testbench/bfm_arbiter.sv(3769)       0     4
+:tb_userinterface:BFM:property_n238_assert
+                     Testbench/bfm_arbiter.sv(3770)       0     6
+:tb_userinterface:BFM:property_n239_assert
+                     Testbench/bfm_arbiter.sv(3771)       0    26
+:tb_userinterface:BFM:property_n240_assert
+                     Testbench/bfm_arbiter.sv(3772)       0    15
+:tb_userinterface:BFM:property_n241_assert
+                     Testbench/bfm_arbiter.sv(3773)       0    21
+:tb_userinterface:BFM:property_n242_assert
+                     Testbench/bfm_arbiter.sv(3774)       1    24
+:tb_userinterface:BFM:property_n243_assert
+                     Testbench/bfm_arbiter.sv(3775)       1    25
+:tb_userinterface:BFM:property_n244_assert
+                     Testbench/bfm_arbiter.sv(3776)       0     5
+:tb_userinterface:BFM:property_n248_assert
+                     Testbench/bfm_arbiter.sv(3777)       0     5
+:tb_userinterface:BFM:property_n249_assert
+                     Testbench/bfm_arbiter.sv(3778)       0     6
+:tb_userinterface:BFM:property_n251_assert
+                     Testbench/bfm_arbiter.sv(3779)       0    10
+:tb_userinterface:BFM:property_n252_assert
+                     Testbench/bfm_arbiter.sv(3780)       0    14
+:tb_userinterface:BFM:property_n256_assert
+                     Testbench/bfm_arbiter.sv(3781)       0     1
+:tb_userinterface:BFM:property_n258_assert
+                     Testbench/bfm_arbiter.sv(3782)       0     5
+:tb_userinterface:BFM:property_n260_assert
+                     Testbench/bfm_arbiter.sv(3783)       0     1
+:tb_userinterface:BFM:property_n261_assert
+                     Testbench/bfm_arbiter.sv(3784)       0     1
+:tb_userinterface:BFM:property_n264_assert
+                     Testbench/bfm_arbiter.sv(3785)       0     1
+:tb_userinterface:BFM:property_n265_assert
+                     Testbench/bfm_arbiter.sv(3786)       0     1
+:tb_userinterface:BFM:property_n279_assert
+                     Testbench/bfm_arbiter.sv(3788)       0     2
+:tb_userinterface:BFM:property_n281_assert
+                     Testbench/bfm_arbiter.sv(3790)       0     1
+:tb_userinterface:BFM:property_n285_assert
+                     Testbench/bfm_arbiter.sv(3792)       0     1
+:tb_userinterface:BFM:property_n287_assert
+                     Testbench/bfm_arbiter.sv(3794)       0     1
+:tb_userinterface:BFM:property_n289_assert
+                     Testbench/bfm_arbiter.sv(3796)       0     5
+:tb_userinterface:BFM:property_n290_assert
+                     Testbench/bfm_arbiter.sv(3797)       0     1
+:tb_userinterface:BFM:property_n291_assert
+                     Testbench/bfm_arbiter.sv(3798)       0     2
+:tb_userinterface:BFM:property_n292_assert
+                     Testbench/bfm_arbiter.sv(3799)       0     2
+:tb_userinterface:BFM:property_n293_assert
+                     Testbench/bfm_arbiter.sv(3800)       0     2
+:tb_userinterface:BFM:property_n294_assert
+                     Testbench/bfm_arbiter.sv(3801)       0     2
+:tb_userinterface:BFM:property_n295_assert
+                     Testbench/bfm_arbiter.sv(3802)       0     2
+:tb_userinterface:BFM:property_n296_assert
+                     Testbench/bfm_arbiter.sv(3803)       0     2
+:tb_userinterface:BFM:property_n297_assert
+                     Testbench/bfm_arbiter.sv(3804)       0     2
+:tb_userinterface:BFM:property_n298_assert
+                     Testbench/bfm_arbiter.sv(3805)       0     2
+:tb_userinterface:BFM:property_n299_assert
+                     Testbench/bfm_arbiter.sv(3806)       0     2
+:tb_userinterface:BFM:property_n300_assert
+                     Testbench/bfm_arbiter.sv(3807)       0     2
+:tb_userinterface:BFM:property_n305_assert
+                     Testbench/bfm_arbiter.sv(3809)       0     1
+:tb_userinterface:BFM:property_n311_assert
+                     Testbench/bfm_arbiter.sv(3811)       0     1
+:tb_userinterface:BFM:property_n312_assert
+                     Testbench/bfm_arbiter.sv(3812)       0     1
+:tb_userinterface:BFM:property_n313_assert
+                     Testbench/bfm_arbiter.sv(3813)       0     3
+:tb_userinterface:BFM:property_n316_assert
+                     Testbench/bfm_arbiter.sv(3814)       0     5
+:tb_userinterface:BFM:property_n317_assert
+                     Testbench/bfm_arbiter.sv(3815)       0     1
+:tb_userinterface:BFM:property_n318_assert
+                     Testbench/bfm_arbiter.sv(3816)       0     1
+:tb_userinterface:BFM:property_n322_assert
+                     Testbench/bfm_arbiter.sv(3817)       0     3
+:tb_userinterface:BFM:property_n323_assert
+                     Testbench/bfm_arbiter.sv(3818)       0     3
+:tb_userinterface:BFM:property_n324_assert
+                     Testbench/bfm_arbiter.sv(3819)       0     1
+:tb_userinterface:BFM:property_n325_assert
+                     Testbench/bfm_arbiter.sv(3820)       0     3
+:tb_userinterface:BFM:property_n327_assert
+                     Testbench/bfm_arbiter.sv(3821)       0     5
+:tb_userinterface:BFM:property_n328_assert
+                     Testbench/bfm_arbiter.sv(3822)       0     1
+:tb_userinterface:BFM:property_n342_assert
+                     Testbench/bfm_arbiter.sv(3823)       0     1
+:tb_userinterface:BFM:property_n344_assert
+                     Testbench/bfm_arbiter.sv(3824)       0     1
+:tb_userinterface:BFM:property_n345_assert
+                     Testbench/bfm_arbiter.sv(3825)       0     2
+:tb_userinterface:BFM:property_n347_assert
+                     Testbench/bfm_arbiter.sv(3826)       0     5
+:tb_userinterface:BFM:property_n348_assert
+                     Testbench/bfm_arbiter.sv(3827)       0     1
+:tb_userinterface:BFM:property_n354_assert
+                     Testbench/bfm_arbiter.sv(3828)       0     1
+:tb_userinterface:BFM:property_n357_assert
+                     Testbench/bfm_arbiter.sv(3829)       0     2
+:tb_userinterface:BFM:property_n358_assert
+                     Testbench/bfm_arbiter.sv(3830)       1     2
+:tb_userinterface:BFM:property_n359_assert
+                     Testbench/bfm_arbiter.sv(3831)       0     2
+:tb_userinterface:BFM:property_n360_assert
+                     Testbench/bfm_arbiter.sv(3832)       1     2
+:tb_userinterface:BFM:property_n361_assert
+                     Testbench/bfm_arbiter.sv(3833)       0     2
+:tb_userinterface:BFM:property_n362_assert
+                     Testbench/bfm_arbiter.sv(3834)       1     2
+:tb_userinterface:BFM:property_n363_assert
+                     Testbench/bfm_arbiter.sv(3835)       0     2
+:tb_userinterface:BFM:property_n366_assert
+                     Testbench/bfm_arbiter.sv(3836)       1     2
+:tb_userinterface:BFM:property_n367_assert
+                     Testbench/bfm_arbiter.sv(3837)       0     2
+:tb_userinterface:BFM:property_n369_assert
+                     Testbench/bfm_arbiter.sv(3838)       1     2
+:tb_userinterface:BFM:property_n370_assert
+                     Testbench/bfm_arbiter.sv(3839)       0     2
+:tb_userinterface:BFM:property_n371_assert
+                     Testbench/bfm_arbiter.sv(3840)       1     2
+:tb_userinterface:BFM:property_n372_assert
+                     Testbench/bfm_arbiter.sv(3841)       0     2
+:tb_userinterface:BFM:property_n373_assert
+                     Testbench/bfm_arbiter.sv(3842)       1     2
+:tb_userinterface:BFM:property_n374_assert
+                     Testbench/bfm_arbiter.sv(3843)       0     2
+:tb_userinterface:BFM:property_n377_assert
+                     Testbench/bfm_arbiter.sv(3844)       1     0
+:tb_userinterface:BFM:property_n378_assert
+                     Testbench/bfm_arbiter.sv(3845)       0     1
+:tb_userinterface:BFM:property_n379_assert
+                     Testbench/bfm_arbiter.sv(3846)       0     4
+:tb_userinterface:BFM:property_n381_assert
+                     Testbench/bfm_arbiter.sv(3847)       0    16
+:tb_userinterface:BFM:property_n382_assert
+                     Testbench/bfm_arbiter.sv(3848)       0     6
+:tb_userinterface:BFM:property_n383_assert
+                     Testbench/bfm_arbiter.sv(3849)       0    34
+:tb_userinterface:BFM:property_n385_assert
+                     Testbench/bfm_arbiter.sv(3850)       0     3
+:tb_userinterface:BFM:property_n387_assert
+                     Testbench/bfm_arbiter.sv(3851)       0     1
+:tb_userinterface:BFM:property_n388_assert
+                     Testbench/bfm_arbiter.sv(3852)       0     7
+:tb_userinterface:BFM:property_n391_assert
+                     Testbench/bfm_arbiter.sv(3853)       0     1
+:tb_userinterface:BFM:property_n393_assert
+                     Testbench/bfm_arbiter.sv(3854)       0     1
+:tb_userinterface:BFM:property_n394_assert
+                     Testbench/bfm_arbiter.sv(3855)       0     1
+:tb_userinterface:BFM:property_n395_assert
+                     Testbench/bfm_arbiter.sv(3856)       0     6
+:tb_userinterface:BFM:property_n396_assert
+                     Testbench/bfm_arbiter.sv(3857)       0     2
+:tb_userinterface:BFM:property_n398_assert
+                     Testbench/bfm_arbiter.sv(3858)       0     7
+:tb_userinterface:BFM:property_n399_assert
+                     Testbench/bfm_arbiter.sv(3859)       0     1
+:tb_userinterface:BFM:property_n401_assert
+                     Testbench/bfm_arbiter.sv(3860)       0     4
+:tb_userinterface:BFM:property_n402_assert
+                     Testbench/bfm_arbiter.sv(3861)       0     4
+:tb_userinterface:BFM:property_n403_assert
+                     Testbench/bfm_arbiter.sv(3862)       0     5
+:tb_userinterface:BFM:property_n404_assert
+                     Testbench/bfm_arbiter.sv(3863)       0     2
+:tb_userinterface:BFM:property_n405_assert
+                     Testbench/bfm_arbiter.sv(3864)       0     2
+:tb_userinterface:BFM:property_n406_assert
+                     Testbench/bfm_arbiter.sv(3865)       0     2
+:tb_userinterface:BFM:property_n407_assert
+                     Testbench/bfm_arbiter.sv(3866)       0     3
+:tb_userinterface:BFM:property_n408_assert
+                     Testbench/bfm_arbiter.sv(3867)       0     1
+:tb_userinterface:BFM:property_n409_assert
+                     Testbench/bfm_arbiter.sv(3868)       0     1
+:tb_userinterface:BFM:property_n410_assert
+                     Testbench/bfm_arbiter.sv(3869)       0     2
+:tb_userinterface:BFM:property_n411_assert
+                     Testbench/bfm_arbiter.sv(3870)       0    12
+:tb_userinterface:BFM:property_n412_assert
+                     Testbench/bfm_arbiter.sv(3871)       0     1
+:tb_userinterface:BFM:property_n413_assert
+                     Testbench/bfm_arbiter.sv(3872)       0     4
+:tb_userinterface:BFM:property_n414_assert
+                     Testbench/bfm_arbiter.sv(3873)       0     2
+:tb_userinterface:BFM:property_n415_assert
+                     Testbench/bfm_arbiter.sv(3874)       0    31
+:tb_userinterface:BFM:property_n416_assert
+                     Testbench/bfm_arbiter.sv(3875)       0     1
+:tb_userinterface:BFM:property_n417_assert
+                     Testbench/bfm_arbiter.sv(3876)       0     1
+:tb_userinterface:BFM:property_n418_assert
+                     Testbench/bfm_arbiter.sv(3877)       0     5
+:tb_userinterface:BFM:property_n419_assert
+                     Testbench/bfm_arbiter.sv(3878)       0     3
+:tb_userinterface:BFM:property_n420_assert
+                     Testbench/bfm_arbiter.sv(3879)       0     1
+:tb_userinterface:BFM:property_n421_assert
+                     Testbench/bfm_arbiter.sv(3880)       0     1
+:tb_userinterface:BFM:property_n422_assert
+                     Testbench/bfm_arbiter.sv(3881)       0    19
+:tb_userinterface:BFM:property_n423_assert
+                     Testbench/bfm_arbiter.sv(3882)       0     2
+:tb_userinterface:BFM:property_n424_assert
+                     Testbench/bfm_arbiter.sv(3883)       0     8
+:tb_userinterface:BFM:property_n425_assert
+                     Testbench/bfm_arbiter.sv(3884)       0     6
+:tb_userinterface:BFM:property_n428_assert
+                     Testbench/bfm_arbiter.sv(3885)       0     1
+:tb_userinterface:BFM:property_n431_assert
+                     Testbench/bfm_arbiter.sv(3886)       0     1
+:tb_userinterface:BFM:property_n432_assert
+                     Testbench/bfm_arbiter.sv(3887)       0     3
+:tb_userinterface:BFM:property_n435_assert
+                     Testbench/bfm_arbiter.sv(3888)       0     2
+:tb_userinterface:BFM:property_n436_assert
+                     Testbench/bfm_arbiter.sv(3889)       0    19
+:tb_userinterface:BFM:property_n437_assert
+                     Testbench/bfm_arbiter.sv(3890)       0     1
+:tb_userinterface:BFM:property_n438_assert
+                     Testbench/bfm_arbiter.sv(3891)       0     2
+:tb_userinterface:BFM:property_n439_assert
+                     Testbench/bfm_arbiter.sv(3892)       0     1
+:tb_userinterface:BFM:property_n440_assert
+                     Testbench/bfm_arbiter.sv(3893)       0    22
+:tb_userinterface:BFM:property_n441_assert
+                     Testbench/bfm_arbiter.sv(3894)       0     3
+:tb_userinterface:BFM:property_n442_assert
+                     Testbench/bfm_arbiter.sv(3895)       0     6
+:tb_userinterface:BFM:property_n443_assert
+                     Testbench/bfm_arbiter.sv(3896)       0     3
+:tb_userinterface:BFM:property_n444_assert
+                     Testbench/bfm_arbiter.sv(3897)       0     4
+:tb_userinterface:BFM:property_n445_assert
+                     Testbench/bfm_arbiter.sv(3898)       0     1
+:tb_userinterface:BFM:property_n446_assert
+                     Testbench/bfm_arbiter.sv(3899)       0     1
+:tb_userinterface:BFM:property_n447_assert
+                     Testbench/bfm_arbiter.sv(3900)       0     1
+:tb_userinterface:BFM:property_n448_assert
+                     Testbench/bfm_arbiter.sv(3901)       0     1
+:tb_userinterface:BFM:property_n449_assert
+                     Testbench/bfm_arbiter.sv(3902)       0     3
+:tb_userinterface:BFM:property_n450_assert
+                     Testbench/bfm_arbiter.sv(3903)       0     2
+:tb_userinterface:BFM:property_n451_assert
+                     Testbench/bfm_arbiter.sv(3904)       0     3
+:tb_userinterface:BFM:property_n453_assert
+                     Testbench/bfm_arbiter.sv(3905)       0     1
+:tb_userinterface:BFM:property_n454_assert
+                     Testbench/bfm_arbiter.sv(3906)       0     1
+:tb_userinterface:BFM:property_n455_assert
+                     Testbench/bfm_arbiter.sv(3907)       0     3
+:tb_userinterface:BFM:property_n456_assert
+                     Testbench/bfm_arbiter.sv(3908)       0     2
+:tb_userinterface:BFM:property_n457_assert
+                     Testbench/bfm_arbiter.sv(3909)       0     3
+:tb_userinterface:BFM:property_n458_assert
+                     Testbench/bfm_arbiter.sv(3910)       0     8
+:tb_userinterface:BFM:property_n459_assert
+                     Testbench/bfm_arbiter.sv(3911)       0     1
+:tb_userinterface:BFM:property_n460_assert
+                     Testbench/bfm_arbiter.sv(3912)       0     4
+:tb_userinterface:BFM:property_n461_assert
+                     Testbench/bfm_arbiter.sv(3913)       0     1
+:tb_userinterface:BFM:property_n462_assert
+                     Testbench/bfm_arbiter.sv(3914)       0     1
+:tb_userinterface:BFM:property_n463_assert
+                     Testbench/bfm_arbiter.sv(3915)       0     7
+:tb_userinterface:BFM:property_n464_assert
+                     Testbench/bfm_arbiter.sv(3916)       0    17
+:tb_userinterface:BFM:property_n465_assert
+                     Testbench/bfm_arbiter.sv(3917)       0     3
+:tb_userinterface:BFM:property_n466_assert
+                     Testbench/bfm_arbiter.sv(3918)       0    24
+:tb_userinterface:BFM:property_n467_assert
+                     Testbench/bfm_arbiter.sv(3919)       0     1
+:tb_userinterface:BFM:property_n469_assert
+                     Testbench/bfm_arbiter.sv(3920)       0     1
+:tb_userinterface:BFM:property_n470_assert
+                     Testbench/bfm_arbiter.sv(3921)       0     1
+:tb_userinterface:BFM:property_n471_assert
+                     Testbench/bfm_arbiter.sv(3922)       0     1
+:tb_userinterface:BFM:property_n473_assert
+                     Testbench/bfm_arbiter.sv(3923)       0     3
+:tb_userinterface:BFM:property_n474_assert
+                     Testbench/bfm_arbiter.sv(3924)       0     7
+:tb_userinterface:BFM:property_n475_assert
+                     Testbench/bfm_arbiter.sv(3925)       0     4
+:tb_userinterface:BFM:property_n476_assert
+                     Testbench/bfm_arbiter.sv(3926)       0     1
+:tb_userinterface:BFM:property_n477_assert
+                     Testbench/bfm_arbiter.sv(3927)       0     1
+:tb_userinterface:BFM:property_n478_assert
+                     Testbench/bfm_arbiter.sv(3928)       0     1
+:tb_userinterface:BFM:property_n480_assert
+                     Testbench/bfm_arbiter.sv(3929)       0     1
+:tb_userinterface:BFM:property_n482_assert
+                     Testbench/bfm_arbiter.sv(3930)       0     1
+:tb_userinterface:BFM:property_n483_assert
+                     Testbench/bfm_arbiter.sv(3931)       0    25
+:tb_userinterface:BFM:property_n484_assert
+                     Testbench/bfm_arbiter.sv(3932)       1     1
+:tb_userinterface:BFM:property_n486_assert
+                     Testbench/bfm_arbiter.sv(3933)       0     2
+:tb_userinterface:BFM:property_n487_assert
+                     Testbench/bfm_arbiter.sv(3934)       1     4
+:tb_userinterface:BFM:property_n488_assert
+                     Testbench/bfm_arbiter.sv(3935)       0     4
+:tb_userinterface:BFM:property_n489_assert
+                     Testbench/bfm_arbiter.sv(3936)       0     1
